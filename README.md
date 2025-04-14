@@ -14,7 +14,7 @@
 <br><a><img align="right" width="150" height="150" src="./assets/computerOn.webp"></a>
 **Technologies:**
 
-  Lovely about technology, collaborating to solve problems and improve people's lives through technology, student of the Javacript and their stack. :rocket: 
+  Lovely about technology, collaborating to solve problems and improve people's lives through technology, student of the Java and their stack. :rocket: 
   
   
 <div style="display: inline_block"><br>
