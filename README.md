@@ -52,7 +52,7 @@
 
    🇧🇷 🇺🇸 <br>
 
-  I'm intermediate student of the English language and I'm fluent in Portuguese.
+  I'm advanced student of the English language and I'm fluent in Portuguese.
 
 
 
